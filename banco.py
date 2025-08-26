@@ -1,8 +1,8 @@
 from datetime import datetime
 from pydoc import cli
 
-#Gustavo Atui R.A=24.123.072-1
-#Lucas Cabral R.A=24.123.032-5
+#Gustavo Atui
+#Lucas Cabral 
 
 
 
